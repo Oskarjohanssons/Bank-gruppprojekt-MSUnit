@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank gruppprojekt", "Bank gruppprojekt.csproj", "{92D62551-5D62-42BC-B713-43DC5E37DE70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank_gruppprojekt.Tests", "..\Bank_gruppprojekt.Tests\Bank_gruppprojekt.Tests.csproj", "{A281D0F5-E60F-48E1-BE0F-652F52D12DCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{92D62551-5D62-42BC-B713-43DC5E37DE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92D62551-5D62-42BC-B713-43DC5E37DE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92D62551-5D62-42BC-B713-43DC5E37DE70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A281D0F5-E60F-48E1-BE0F-652F52D12DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A281D0F5-E60F-48E1-BE0F-652F52D12DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A281D0F5-E60F-48E1-BE0F-652F52D12DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A281D0F5-E60F-48E1-BE0F-652F52D12DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

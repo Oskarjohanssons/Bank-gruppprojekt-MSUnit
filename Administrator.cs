@@ -164,7 +164,7 @@ namespace Bank_gruppprojekt
 
 
 
-        private void AdminDeleteAccount(Customer user, string accountName, Administrator currentAdmin)
+        public void AdminDeleteAccount(Customer user, string accountName, Administrator currentAdmin)
         {
             if (user == null || !Administrators.Contains(currentAdmin))
             {

@@ -12,8 +12,7 @@ namespace Bank_gruppprojekt
         public string Accounttype { get; set; }
         public double Balance { get; set; }
         public string Currency { get; set; }
-        public double IntrestRate { get; set; } 
-
+        public double IntrestRate { get; set; }
 
         public Account(string accountType, double balance, string currency)
         {
